@@ -1,8 +1,8 @@
 class Roam < Formula
   desc "Work on the same projects from several Macs, always in sync"
   homepage "https://github.com/WombatFirst220/roam"
-  url "https://github.com/WombatFirst220/roam/archive/refs/tags/v1.8.1.tar.gz"
-  sha256 "207ae6b568c3a55171f9798a32246bf47ab1f817a8c37eec56e19dec74f761de"
+  url "https://github.com/WombatFirst220/roam/archive/refs/tags/v1.8.2.tar.gz"
+  sha256 "69d7b5b41e1a0b07b54dcf484d31c837a1ccc0acf7f78a006827a65e5a723bea"
   license "MIT"
 
   depends_on :macos
